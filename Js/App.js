@@ -37,7 +37,7 @@ if (document.getElementById("cards-container")) {
 // Navegación
 function verDetalle(nombre) {
   localStorage.setItem("ciudadSeleccionada", nombre);
-  window.location = "detalle.html";
+  window.location = "Detalle.html";
 }
 
 // detalle
