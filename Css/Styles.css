@@ -1,0 +1,21 @@
+body {
+    background-image: url("../assets/Backgrounds/fondoGalaxia.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  
+  .whiteTitle {
+    color: white;
+  }
+  
+  .card {
+    cursor: pointer;
+    transition: transform .2s ease;
+    text-align: center;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
