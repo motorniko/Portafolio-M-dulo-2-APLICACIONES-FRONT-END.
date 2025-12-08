@@ -40,7 +40,6 @@ function verDetalle(nombre) {
   window.location = "detalle.html";
 }
 
-
 // detalle
 if (document.getElementById("city-title")) {
 
